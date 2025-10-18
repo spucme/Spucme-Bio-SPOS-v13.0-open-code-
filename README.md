@@ -14,12 +14,16 @@
     <td>
       <img
 src="./site/site_screen (mobile).jpg"
+        width="300"
+        height="500"
     />
     </td>
     <td>
       <img
         width="550px"
         src="./site/site_screen (ПК).jpg"
+        width="300"
+        height="500"
       />
     </td>
   </tr>
