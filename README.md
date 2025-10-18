@@ -7,8 +7,21 @@
 
 
 ## фото с сайта (ПК):
-<p>
-  <img
-    src="./site/site_screen (mobile).jpg"
+
+<p align="center">
+<table>
+  <tr>
+    <td>
+      <img
+src="./site/site_screen (mobile).jpg"
     />
+    </td>
+    <td>
+      <img
+        width="550px"
+        src="./site/site_screen (ПК).jpg"
+      />
+    </td>
+  </tr>
+</table>
 </p>
