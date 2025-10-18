@@ -14,7 +14,7 @@
     <td>
       <img
 src="./site/site_screen (mobile).jpg"
-        width="400"
+        width="600"
         height="500"
     />
     </td>
