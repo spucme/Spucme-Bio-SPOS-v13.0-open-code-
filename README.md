@@ -9,6 +9,6 @@
 ## фото с сайта (ПК):
 <p>
   <img
-    src=""
+    src="./site/site_screen (mobile).jpg"
     />
 </p>
