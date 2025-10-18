@@ -14,7 +14,6 @@
     <td>
       <img
 src="./site/site_screen (mobile).jpg"
-        width="600"
         height="500"
     />
     </td>
@@ -22,7 +21,6 @@ src="./site/site_screen (mobile).jpg"
       <img
         width="550px"
         src="./site/site_screen (ПК).jpg"
-        width="300"
         height="500"
       />
     </td>
