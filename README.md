@@ -1,4 +1,8 @@
-# Spucme-Bio-SPOS-v13.0 (open-code)
+# Spucme-Bio-SPOS-v13.0 (open-code) [![Custom Badge](https://img.shields.io/badge/SPOS-opencode-green.svg)](https://spucme.ru)
+
+[![Custom Badge](https://img.shields.io/badge/SPOS-v.13.0-red.svg)](https://github.com/spucme/Spucme-Bio-SPOS-v13.0-open-code-)
+[![Custom Badge](https://img.shields.io/badge/made-Spucme-purple.svg)](https://t.me/spucme)
+
 
 > [!IMPORTANT]
 > <b align="center">сайт-био на версии SPOS от Spucme с открытым кодом ( пример: <a href="https://spucme.ru">клик</a> ).</b> код полностью открытый - т.е. можно брать и использовать в своих целях.
